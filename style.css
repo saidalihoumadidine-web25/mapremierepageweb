@@ -1,12 +1,17 @@
+/* je colorie tous mes paragraphes en goldenrod et je centre leurs textes */
 p{
     color: goldenrod;
-}
-h1{
+    text-align: center;
+} 
+/* je colorie tout mes titres de niveau h1 en green*/
+h1{ 
     color: green;
 }
+/* je colorie tout mes listes ordonnées en bleu*/
 ol{
     color: blue;
 }
+/* je colorie tout mes listes non-ordonnées en bleu*/
 ul{
     color: red;
 }
