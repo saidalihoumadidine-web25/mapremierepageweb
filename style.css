@@ -8,8 +8,10 @@ p{
     -le texte prend une couleur bleu
 */
 .rsma{
-    color: blue;
-    font-size: 35px;
+    color:blueviolet;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+
 }
 /* je colorie tout mes titres de niveau h1 en green*/
 h1{ 
