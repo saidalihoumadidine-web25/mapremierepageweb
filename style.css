@@ -3,9 +3,13 @@ p{
     color: goldenrod;
     text-align: center;
 } 
-/* j'insere les parametre que je veux attribuer à ma class rsma */
+/* j'insere les parametre que je veux attribuer à ma class rsma 
+    - la taille est de 25 pixel
+    -le texte prend une couleur bleu
+*/
 .rsma{
     color: blue;
+    font-size: 35px;
 }
 /* je colorie tout mes titres de niveau h1 en green*/
 h1{ 
