@@ -3,6 +3,10 @@ p{
     color: goldenrod;
     text-align: center;
 } 
+/* j'insere les parametre que je veux attribuer à ma class rsma */
+.rsma{
+    color: blue;
+}
 /* je colorie tout mes titres de niveau h1 en green*/
 h1{ 
     color: green;
