@@ -1,0 +1,50 @@
+/* ma division divsolid, couleur de fond cadetblue, couleur bleu, text aligné au centre et bordure plaine*/ 
+#divsolid {
+  text-align: center;
+  
+  color: blue;
+
+  background-color: cadetblue;
+
+  border: solid;
+
+}
+/* ma division divdouble, couleur de fond azure, couleur orange, text aligné au centre et double bordure*/ 
+#divdouble {
+  text-align: center;
+  
+  color: orange;
+
+  background-color: azure;
+
+  border: double;
+
+}
+
+/* ma division divdashed, couleur de fond greenyellow, couleur de fond grey, text aligné au centre et bordure en petit tret*/ 
+
+#divdashed {
+  text-align: center;
+  
+  color: greenyellow;
+
+  background-color: grey;
+
+  border: dashed;
+
+}
+
+/* ma division divpointié, couleur de fond coral, couleur violer , text aligné au centre et bordure pointié*/ 
+#divpointié {
+  text-align: center;
+  
+  color: violet;
+
+  background-color: coral;
+  border: dotted;
+
+}
+
+
+
+
